@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#Creating a script that uses a for loop
+<<<<<<< HEAD
+
+for _ in {1..10}
+
+do
+	echo "Best School"
+
+	done
+=======
+for _ in {1..10}
+do
+	echo "Best School"
+done
+>>>>>>> b16fede883e331f7d311ad0a4aec7a7fcb4d1b7d
